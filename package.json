@@ -1,0 +1,21 @@
+{
+  "name": "cypress-auto-01",
+  "version": "1.0.0",
+  "description": "cypress project for start",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "training-core",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
